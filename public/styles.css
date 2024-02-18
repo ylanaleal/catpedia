@@ -1,0 +1,22 @@
+p {
+    font-size: 50px !important;
+    font-weight: 800;
+    color: hotpink;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 0;
+}
+
+button {
+    width: 130px;
+}
+
+.cat-card {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
